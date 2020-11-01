@@ -62,7 +62,7 @@ Most of the time, the fastest solution is to just remove the module directory fr
 
 ## Notes
 
-This modules wouldn't be possible without the help of Mickael Martin ([Source 1](https://framagit.org/Mickael-Martin) & [Source 2](https://support.zabbix.com/secure/ViewProfile.jspa?name=mma)) and Zabbix developer [Valdis Murzins](https://support.zabbix.com/secure/ViewProfile.jspa?name=vmurzins), who created [the very first modules](https://framagit.org/zabbix-modules) (check them out!) and helped with further modules during the discussion of [ZBXNEXT-6105](https://support.zabbix.com/browse/ZBXNEXT-6105) and were my inspiration to create this repository. Thank you!
+This modules wouldn't be possible without the help of Mickael Martin ([Source 1](https://framagit.org/Mickael-Martin) & [Source 2](https://support.zabbix.com/secure/ViewProfile.jspa?name=mma)) , who created [the very first modules](https://framagit.org/zabbix-modules) (check them out!) and Zabbix developer [Valdis Murzins](https://support.zabbix.com/secure/ViewProfile.jspa?name=vmurzins) who helped with further modules during the discussion of [ZBXNEXT-6105](https://support.zabbix.com/browse/ZBXNEXT-6105). They were my inspiration to create this repository. **Thank you!**
 
 ## Changelog
 
