@@ -14,28 +14,28 @@ The modules in this repository were tested on Zabbix 5.0.2+ on Debian 10 Buster.
 
 ### Add Graphs In Monitoring menu
 
-Adds a new menu entry **Graphs** to the Monitoring section of the sidebar menu.
-It's a direct link to <https://FQDN/zabbix/zabbix.php?action=charts.view>
+Adds a new menu entry **Graphs** to the Monitoring section of the sidebar menu.  
+It's a direct link to: <https://FQDN/zabbix/zabbix.php?action=charts.view>
 ![Graphs](screenshots/graphs01.png)
 
 ### Add Web In Monitoring menu
 
-Adds a new menu entry **Web** to the Monitoring section of the sidebar menu.
-It's a direct link to <https://FQDN/zabbix/zabbix.php?action=web.view>
+Adds a new menu entry **Web** to the Monitoring section of the sidebar menu.  
+It's a direct link to: <https://FQDN/zabbix/zabbix.php?action=web.view>
 ![Graphs](screenshots/web01.png)
 
 ## Zabbix Configuration menu
 
 ### Add Items in Configuration menu
 
-Adds a new menu entry **Items** to the Configuration section of the sidebar menu.
-It's a direct link to <https://FQDN/zabbix/items.php>
+Adds a new menu entry **Items** to the Configuration section of the sidebar menu.  
+It's a direct link to: <https://FQDN/zabbix/items.php>
 ![Graphs](screenshots/items01.png)
 
 ### Add Trigges in Configuration menu
 
-Adds a new menu entry **Triggers** to the Configuration section of the sidebar menu.
-It's a direct link to <https://FQDN/zabbix/triggers.php>
+Adds a new menu entry **Triggers** to the Configuration section of the sidebar menu.  
+It's a direct link to: <https://FQDN/zabbix/triggers.php>
 ![Graphs](screenshots/triggers01.png)
 
 ## Installation
@@ -63,6 +63,10 @@ Most of the time, the fastest solution is to just remove the module directory fr
 ## Notes
 
 This modules wouldn't be possible without the help of Mickael Martin ([Source 1](https://framagit.org/Mickael-Martin) & [Source 2](https://support.zabbix.com/secure/ViewProfile.jspa?name=mma)) , who created [the very first modules](https://framagit.org/zabbix-modules) (check them out!) and Zabbix developer [Valdis Murzins](https://support.zabbix.com/secure/ViewProfile.jspa?name=vmurzins) who helped with further modules during the discussion of [ZBXNEXT-6105](https://support.zabbix.com/browse/ZBXNEXT-6105). They were my inspiration to create this repository. **Thank you!**
+
+## Blog post
+
+<https://www.meinekleinefarm.net/zabbix-5-0-frontend-modules/>
 
 ## Changelog
 
