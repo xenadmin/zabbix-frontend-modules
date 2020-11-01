@@ -1,0 +1,10 @@
+{
+    "manifest_version": 1.0,
+    "id": "add_web_in_monitoring_menu",
+    "name": "Add Web In Monitoring menu",
+    "version": "1.0",
+    "namespace": "AddWebInMonitoringMenu",
+    "author": "Original Author: Mickael Martin / Forked by: Marco Hofmann",
+    "url": "https://framagit.org/zabbix-modules/add-web-in-menu / https://www.meinekleinefarm.net",
+    "description": "Add menu Web to Monitoring."
+}

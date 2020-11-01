@@ -1,0 +1,10 @@
+{
+    "manifest_version": 1.0,
+    "id": "add_items_in_configuration_menu",
+    "name": "Add Items in Configuration menu",
+    "version": "1.0",
+    "namespace": "AddItemsInConfigurationMenu",
+    "author": "Marco Hofmann",
+    "url": "https://www.meinekleinefarm.net",
+    "description": "Add menu Items to Configuration."
+}
