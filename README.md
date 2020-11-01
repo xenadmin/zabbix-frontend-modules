@@ -66,7 +66,7 @@ This modules wouldn't be possible without the help of Mickael Martin ([Source 1]
 
 ## Blog post
 
-<https://www.meinekleinefarm.net/zabbix-5-0-frontend-modules/>
+<https://www.meinekleinefarm.net/zabbix-frontend-modules/>
 
 ## Changelog
 
