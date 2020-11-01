@@ -1,0 +1,10 @@
+{
+    "manifest_version": 1.0,
+    "id": "add-zabbix_agents-to-inventory-menu",
+    "name": "Add Zabbix Agents to Inventory menu",
+    "version": "1.0",
+    "namespace": "AddZabbixAgentsToInventoryMenu",
+    "author": "Marco Hofmann",
+    "url": "https://www.meinekleinefarm.net",
+    "description": "Add Zabbix Agents to Inventory menu."
+}
