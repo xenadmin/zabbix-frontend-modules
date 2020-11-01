@@ -19,7 +19,7 @@ class Module extends \Core\CModule {
 			->findOrAdd(_('Inventory'))
 				->getSubmenu()
 					->insertAfter(_('Hosts'),((new \CMenuItem(_('Zabbix Agents')))
-							->setUrl(new \CUrl('hostinventoriesoverview.php?filter_groupby=software_app_a&filter_set=1'), 'hostinventoriesoverview.php'))
+							->setUrl(new \CUrl('hostinventoriesoverview.php?filter_groupby=software_app_a&filter_set=1&sort=inventory_field&sortorder=DESC'), 'hostinventoriesoverview.php'))
 					);
 	}
  
