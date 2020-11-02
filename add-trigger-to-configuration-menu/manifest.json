@@ -1,0 +1,10 @@
+{
+    "manifest_version": 1.0,
+    "id": "add_triggers_to_configuration_menu",
+    "name": "Add Triggers to Configuration menu",
+    "version": "1.0",
+    "namespace": "AddTriggersToConfigurationMenu",
+    "author": "Marco Hofmann",
+    "url": "https://www.meinekleinefarm.net",
+    "description": "Add Triggers to Configuration menu."
+}

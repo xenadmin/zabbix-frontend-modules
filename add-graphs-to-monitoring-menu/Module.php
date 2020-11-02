@@ -1,6 +1,6 @@
 <?php declare(strict_types = 1);
 
-namespace Modules\AddGraphsInMonitoringMenu;
+namespace Modules\AddGraphsToMonitoringMenu;
 
 use APP;
 use CController as CAction;

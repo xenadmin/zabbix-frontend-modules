@@ -1,10 +1,10 @@
 <?php declare(strict_types = 1);
- 
-namespace Modules\AddTriggersInConfigurationMenu;
- 
+
+namespace Modules\AddWebToMonitoringMenu;
+
 use APP;
 use CController as CAction;
- 
+
 /**
  * Please see Core\CModule class for additional reference.
  */
@@ -16,13 +16,13 @@ class Module extends \Core\CModule {
 	public function init(): void {
 		// Initialize main menu (CMenu class instance).
 		APP::Component()->get('menu.main')
-			->findOrAdd(_('Configuration'))
+			->findOrAdd(_('Monitoring'))
 				->getSubmenu()
-					->insertAfter(_('Hosts'),((new \CMenuItem(_('Triggers')))
-							->setUrl(new \CUrl('triggers.php'), 'triggers.php'))
+					->insertAfter(_('Overview'),((new \CMenuItem(_('Web')))
+						->setAction('web.view'))
 					);
 	}
- 
+
 	/**
 	 * Event handler, triggered before executing the action.
 	 *
@@ -30,7 +30,7 @@ class Module extends \Core\CModule {
 	 */
 	public function onBeforeAction(CAction $action): void {
 	}
- 
+
 	/**
 	 * Event handler, triggered on application exit.
 	 *

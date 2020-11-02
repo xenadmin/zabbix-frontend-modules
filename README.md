@@ -32,7 +32,7 @@ Adds a new menu entry **Items** to the Configuration section of the sidebar menu
 It's a direct link to: <https://FQDN/zabbix/items.php>
 ![Graphs](screenshots/items01.png)
 
-### Add Trigges in Configuration menu
+### Add Triggers in Configuration menu
 
 Adds a new menu entry **Triggers** to the Configuration section of the sidebar menu.  
 It's a direct link to: <https://FQDN/zabbix/triggers.php>

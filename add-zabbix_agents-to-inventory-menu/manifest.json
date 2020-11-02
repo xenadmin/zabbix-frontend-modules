@@ -1,6 +1,6 @@
 {
     "manifest_version": 1.0,
-    "id": "add-zabbix_agents-to-inventory-menu",
+    "id": "add_zabbix_agents_to_inventory_menu",
     "name": "Add Zabbix Agents to Inventory menu",
     "version": "1.0",
     "namespace": "AddZabbixAgentsToInventoryMenu",

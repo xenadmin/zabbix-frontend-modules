@@ -1,0 +1,10 @@
+{
+    "manifest_version": 1.0,
+    "id": "add_graphs_to_monitoring_menu",
+    "name": "Add Graphs to Monitoring menu",
+    "version": "1.0",
+    "namespace": "AddGraphsToMonitoringMenu",
+    "author": "Marco Hofmann",
+    "url": "https://www.meinekleinefarm.net",
+    "description": "Add Graphs to Monitoring menu."
+}

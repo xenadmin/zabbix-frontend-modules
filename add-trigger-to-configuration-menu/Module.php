@@ -1,6 +1,6 @@
 <?php declare(strict_types = 1);
  
-namespace Modules\AddItemsInConfigurationMenu;
+namespace Modules\AddTriggersToConfigurationMenu;
  
 use APP;
 use CController as CAction;
@@ -18,8 +18,8 @@ class Module extends \Core\CModule {
 		APP::Component()->get('menu.main')
 			->findOrAdd(_('Configuration'))
 				->getSubmenu()
-					->insertAfter(_('Hosts'),((new \CMenuItem(_('Items')))
-							->setUrl(new \CUrl('items.php'), 'items.php'))
+					->insertAfter(_('Hosts'),((new \CMenuItem(_('Triggers')))
+							->setUrl(new \CUrl('triggers.php'), 'triggers.php'))
 					);
 	}
  
