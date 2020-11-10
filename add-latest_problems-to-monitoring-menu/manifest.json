@@ -1,10 +1,10 @@
 {
     "manifest_version": 1.0,
     "id": "add_latest_problems_to_monitoring_menu",
-    "name": "Add Latest Problems to Monitoring menu",
+    "name": "Add Latest problems to Monitoring menu",
     "version": "1.0",
     "namespace": "AddLatestProblemsToMonitoringMenu",
     "author": "Marco Hofmann",
     "url": "https://www.meinekleinefarm.net",
-    "description": "Add Latest Problems to Monitoring menu."
+    "description": "Add Latest problems to Monitoring menu."
 }
