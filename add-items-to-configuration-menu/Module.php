@@ -19,7 +19,7 @@ class Module extends \Core\CModule {
 			->findOrAdd(_('Configuration'))
 				->getSubmenu()
 					->insertAfter(_('Hosts'),((new \CMenuItem(_('Items')))
-							->setUrl(new \CUrl('items.php'), 'items.php'))
+					->setUrl(new \CUrl('items.php?context=host'), 'items.php?context=host'))
 					);
 	}
  

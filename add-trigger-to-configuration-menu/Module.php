@@ -19,7 +19,7 @@ class Module extends \Core\CModule {
 			->findOrAdd(_('Configuration'))
 				->getSubmenu()
 					->insertAfter(_('Hosts'),((new \CMenuItem(_('Triggers')))
-							->setUrl(new \CUrl('triggers.php'), 'triggers.php'))
+							->setUrl(new \CUrl('triggers.php?context=host'), 'triggers.php?context=host'))
 					);
 	}
  
